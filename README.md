@@ -1,4 +1,4 @@
-# VIRUS LQP-79 - Arduino Game
+# VIRUS LQP-79 - Arduino Game - HACK_UPDT
 
 A port of the classic VIRUS LQP-79 game for Arduino-compatible devices. Originally created by TEAM a.r.g., this version has been adapted to run on custom Arduino hardware with an OLED display.
 
